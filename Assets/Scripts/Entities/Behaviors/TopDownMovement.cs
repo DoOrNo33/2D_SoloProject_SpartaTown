@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class TopDownMovement : MonoBehaviour
 {
-    private TopDownController movementController; // PlayerInputController로 해도 되려나?
+    private TopDownController movementController;
     private Rigidbody2D movementRigidbody;
 
     private Vector2 movementDirection = Vector2.zero;

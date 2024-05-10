@@ -12,7 +12,7 @@ public class PlayerInputController : TopDownController
         _camera = Camera.main;
     }
 
-    public void OnMove(InputValue value)  // 이름은 다르게 해보면 작동 안하나?
+    public void OnMove(InputValue value)
     {
         Vector2 moveInput = value.Get<Vector2>().normalized;
         CallMoveEvent(moveInput);
