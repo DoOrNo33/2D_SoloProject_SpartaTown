@@ -13,8 +13,8 @@ public class MemberUI : MonoBehaviour
     {
         Members.Add("송지원");
         Members.Add("정승연");
-        Members.Add("박유창");
         Members.Add("김신우");
+        Members.Add("박유창");
 
     }
 
