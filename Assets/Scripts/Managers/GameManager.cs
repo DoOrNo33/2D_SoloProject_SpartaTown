@@ -15,8 +15,9 @@ public class GameManager : MonoBehaviour
     public GameObject MemberListUI;
     public Text MemberListText;
     public Text NameTextLabel;
+    public Text PlayerNameList;
 
-    public List<string> CurrentMemeber;
+    //public List<string> CurrentMemeber;
 
     public Animator SelectAnimator;       // animator 컨트롤
 
@@ -30,16 +31,16 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1f;
         //Time.timeScale = 0f;
 
-        CurrentMemeber.Add("권태하");
-        CurrentMemeber.Add("정승연");
-        CurrentMemeber.Add("송지원");
+        //CurrentMemeber.Add("권태하");
+        //CurrentMemeber.Add("정승연");
+        //CurrentMemeber.Add("송지원");
 
 
     }
 
     private void Start()
     {
-        SetMemeberName();
+        //SetMemeberName();
     }
 
 
@@ -70,10 +71,12 @@ public class GameManager : MonoBehaviour
     public void SetPlayerName(string name)
     {
         NameTextLabel.text = name.ToString();
+        PlayerNameList.text = name.ToString();
+
     }
 
     public void SetMemeberName()
     {
-        MemberListText.text = (CurrentMemeber[0] + "\n" + CurrentMemeber[1] + "\n" + CurrentMemeber[2]).ToString();
+        //MemberListText.text = (CurrentMemeber[0] + "\n" + CurrentMemeber[1] + "\n" + CurrentMemeber[2]).ToString();
     }
 }
