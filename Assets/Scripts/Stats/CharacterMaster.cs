@@ -4,12 +4,26 @@ using UnityEngine;
 
 public class CharacterMaster : MonoBehaviour
 {
-    public string Name {  get; set; }
-    public int Idx { get; set; } = 0;
-    public int Job { get; set; } = 0;
+    public enum jobList
+    {
+        Student,
+        Tutor
+    }
+
+    [SerializeField] public string Name;
+    [SerializeField] public int Idx;
+    [SerializeField] public int Job;
+
 
     public void SetName(string _name)
     {
         Name = _name;
+    }
+
+    public void SetCharacter(string _name, int _idx, int job)
+    {
+        Name = _name;
+        Idx = _idx;
+        Job = job;
     }
 }

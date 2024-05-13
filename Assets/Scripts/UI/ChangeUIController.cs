@@ -20,4 +20,14 @@ public class ChangeUIController : MonoBehaviour
         Time.timeScale = 1f;
         GameManager.Instance.ChangeCharacterUI.SetActive(false);
     }
+
+    public void OnMemberList()
+    {
+        GameManager.Instance.MemberListUI.SetActive(true);
+    }
+
+    public void OffMemberList()
+    {
+        GameManager.Instance.MemberListUI.SetActive(false);
+    }
 }
