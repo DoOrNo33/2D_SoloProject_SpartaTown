@@ -22,6 +22,18 @@ public class ResultInputName : MonoBehaviour
         }
     }
 
+    public void ChangeName()
+    {
+        playerName = playerNameInput.text;
+
+        if (GetPrintableLength(playerName) <= 10 && GetPrintableLength(playerName) > 1)
+        {
+            GameManager.Instance.SetPlayerName(playerName);
+            GameManager.Instance.ChangeNameUIFalse();
+            playerNameInput.text = null;
+        }
+    }
+
 
     private static int GetPrintableLength(string str)
     {

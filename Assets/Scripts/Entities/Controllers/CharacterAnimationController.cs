@@ -6,6 +6,7 @@ public class CharacterAnimationController : AnimationController
 {
     private static readonly int isRun = Animator.StringToHash("isRun");
 
+
     // πÆ≈Œ - Threshold
     private readonly float magnitudeThreshold = 0.5f; 
 
