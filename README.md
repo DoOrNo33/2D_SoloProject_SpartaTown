@@ -54,15 +54,13 @@
 
 <details>
   <summary> 시작 화면</summary>
-  ![image](https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/a132828f-e4f1-4883-ba6a-13ec380bf478)
-
+<img src = "https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/a132828f-e4f1-4883-ba6a-13ec380bf478" width = 500>
 
 </details>
 
 <details>
   <summary> 캐릭터 선택 화면</summary>
-  ![image](https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/20d05178-85e0-4f1a-9d52-5d08e88ee73a)
-
+<img src = "https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/20d05178-85e0-4f1a-9d52-5d08e88ee73a" width = 500>
  
 </details>
 
@@ -70,38 +68,32 @@
 
 <details>
   <summary> 게임 화면</summary>
-  ![image](https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/3bae259c-d211-43a9-ba37-df8aa775fc19)
-
+<img src = "https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/3bae259c-d211-43a9-ba37-df8aa775fc19" width = 500>
  
 </details>
 
 <details>
   <summary> 캐릭터 선택</summary>
-  ![image](https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/26a1653d-970c-4212-acb4-9167768b457f)
-
+<img src = "https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/26a1653d-970c-4212-acb4-9167768b457f" width = 500>
  
 </details>
 
 <details>
   <summary> 이름 바꾸기</summary>
-  ![image](https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/f68fe1c9-ed76-4985-afbb-aa65b5f788af)
-
+<img src = "https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/f68fe1c9-ed76-4985-afbb-aa65b5f788af" width = 500>
  
 </details>
 
 <details>
   <summary> 참석자 </summary>
-  ![image](https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/9a205150-9e30-4d01-967d-584b3848bd01)
-
+<img src = "https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/9a205150-9e30-4d01-967d-584b3848bd01" width = 500>
  
 </details>
 
 <details>
   <summary> NPC 상호작용</summary>
-  ![image](https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/1b312450-50ca-4cad-b77f-a1f2e5c55485)
-  ![image](https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/e7152a28-3203-4de6-a84f-0667463758ca)
-
-
+<img src = "https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/1b312450-50ca-4cad-b77f-a1f2e5c55485" width = 500>
+<img src = "https://github.com/DoOrNo33/2D_SoloProject_SpartaTown/assets/167051416/e7152a28-3203-4de6-a84f-0667463758ca" width = 500>
  
 </details>
 
